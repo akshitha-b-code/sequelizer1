@@ -1,0 +1,15 @@
+{
+  "name": "sequelizer-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "keywords": [
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "akshitha",
+  "type": "commonjs",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
