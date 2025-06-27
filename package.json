@@ -1,15 +1,19 @@
 {
-  "name": "sequelizer-backend",
+  "name": "sequelizer",
   "version": "1.0.0",
-  "description": "backend",
-  "keywords": [
-    "backend"
-  ],
-  "license": "ISC",
-  "author": "akshitha",
-  "type": "commonjs",
-  "main": "sample.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7"
   }
 }
